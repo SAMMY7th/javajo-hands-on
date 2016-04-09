@@ -3,4 +3,5 @@ aaaa
 はたち(16進数)
 あああ
 
+コンフリクト
 second-branch
